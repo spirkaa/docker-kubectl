@@ -4,4 +4,10 @@
 
 ## Теги
 
-* git.devmem.ru/projects/kubectl:latest
+```shell
+ghcr.io/spirkaa/kubectl:latest
+```
+
+```shell
+git.devmem.ru/projects/kubectl:latest
+```
